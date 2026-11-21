@@ -1,0 +1,1 @@
+{"description":"Push-optimal Sokoban solver for make.fun's Build the best Sokoban solver, 21 November 2026 bounty: per-room A* over pushes with Hungarian-style assignment heuristic, dead-square and frozen-block pruning.","license":"MIT","main":"main.ts","name":"sokoban-solver-01-run-20261121","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
